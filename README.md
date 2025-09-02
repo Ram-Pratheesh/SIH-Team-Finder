@@ -51,8 +51,8 @@ Fill in your details to make your profile visible to others:
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend:** React (Next.js)  
-- **Backend:** Node.js + Express  
+- **Frontend:** React   
+- **Backend:** Node.js + Nest.js  
 - **Database:** MongoDB  
 - **Hosting:** Vercel  
 
